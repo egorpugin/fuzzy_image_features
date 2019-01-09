@@ -1,0 +1,24 @@
+# output images
+out
+
+# output csv files
+*.csv
+
+# matlab backups
+*.asv
+*.mat
+
+# databases
+/db
+
+# build dirs
+win32
+win64
+bin
+build
+.sw
+
+*.dll
+*.exe
+*.lib
+*.lnk
